@@ -50,6 +50,7 @@ body{
     }
 }
 
+/* channel box */
 #ch-box{
     background-color: #6441A4;
     padding:10px;
@@ -59,6 +60,7 @@ body{
     background-color:#17141F;
 }
 
+/* footer */
 footer{
     text-align: center;
     color:white;
